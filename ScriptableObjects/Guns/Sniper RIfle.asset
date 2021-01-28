@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a35a861ed14a08c4ba1d506378a3a5aa, type: 3}
+  m_Name: Sniper RIfle
+  m_EditorClassIdentifier: 
+  name: Sniper Rifle
+  prefab: {fileID: 0}
+  damage: 80
+  range: 0
+  fireRate: 0.1
+  pellets: 0
+  projectile: 0
+  fireType: 0
+  impactForce: 0
+  recoil: 0
+  kickback: 0
+  bloom: 0
+  gunshotSound: {fileID: 0}
+  pitchRandomization: 0
+  shotVolume: 0
+  recovery: 1
+  reloadSound: {fileID: 0}
+  reloadTime: 0
+  reloadType: 0
+  secondReloadTime: 0
+  maxAmmo: 0
+  maxClipAmmo: 0
+  stashAmmo: 0
+  ammoLeft: 0
+  emptyClick: {fileID: 8300000, guid: 8ba4c1b7e8c65ef4fba2496a22030b7e, type: 3}

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a35a861ed14a08c4ba1d506378a3a5aa
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - prefab: {instanceID: 0}
+  - gunshotSound: {instanceID: 0}
+  - reloadSound: {instanceID: 0}
+  - emptyClick: {fileID: 8300000, guid: 8ba4c1b7e8c65ef4fba2496a22030b7e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a35a861ed14a08c4ba1d506378a3a5aa, type: 3}
+  m_Name: Revolver
+  m_EditorClassIdentifier: 
+  name: Revolver
+  prefab: {fileID: 5733086767967386510, guid: 3a695c4bbba25004daeea1a84cad9cea, type: 3}
+  damage: 50
+  range: 115
+  fireRate: 0.9
+  pellets: 1
+  projectile: 0
+  fireType: 0
+  impactForce: 42
+  recoil: 0
+  kickback: 0
+  bloom: 0.05
+  gunshotSound: {fileID: 8300000, guid: 5af38679bcdb3aa47ab492b6af2be447, type: 3}
+  pitchRandomization: 0
+  shotVolume: 30
+  recovery: 0
+  reloadSound: {fileID: 8300000, guid: cbc77f866c0818943a5b8c544b7b083a, type: 3}
+  reloadTime: 1.1
+  reloadType: 0
+  secondReloadTime: 0
+  maxAmmo: 42
+  maxClipAmmo: 6
+  stashAmmo: 0
+  ammoLeft: 0
+  emptyClick: {fileID: 8300000, guid: 8ba4c1b7e8c65ef4fba2496a22030b7e, type: 3}
